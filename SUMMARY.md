@@ -10,3 +10,6 @@
 * [articles/normal](articles/normal/README.md)
   * [20240530](articles/normal/20240530/README.md)
     * [蓝莺IM功能介绍(一）](articles/normal/20240530/21_20240530_7_1_1717057723.md)
+* [aritcles](aritcles/README.md)
+  * [20240531](aritcles/20240531/README.md)
+    * [蓝莺IM功能介绍(五）](aritcles/20240531/21_20240531_5_1_1717125767.md)
