@@ -2,6 +2,8 @@
 
 * [Gitbook Template](README.md)
 * [articles](articles/README.md)
+  * [20240614](articles/20240614/README.md)
+    * [蓝莺IM介绍(三）](articles/20240614/34_20240531_4_1_1717154168.md)
   * [20240531](articles/20240531/README.md)
     * [蓝莺IM介绍(二）](articles/20240531/34_20240531_2_1_1717149072.md)
     * [蓝莺IM介绍](articles/20240531/34_20240531_1_1_1717147275.md)
