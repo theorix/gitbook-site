@@ -121,7 +121,7 @@
         "logo": {
             "logo": "/assets/logo.png",
             "logoStyle": "height: 35px;align: left;",
-            "url": "https://rkaafm.site.chatai101.com/"
+            "url": "/"
         },
         "intopic-toc": {
             "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3",
