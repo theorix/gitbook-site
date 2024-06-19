@@ -23,7 +23,10 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: '10'
-    
+
+    - name: Install moreutils
+      run: apt-get -y install moreutils
+
     - name: Setup Docker Buildx
       uses: docker/setup-buildx-action@v3
 
@@ -41,7 +44,7 @@ jobs:
       run: |
         cd ${{ github.workspace }}
         mkdir -p ../cache
-        gitbook build # --log=debug --debug
+        gitbook build --log=debug --debug  | ts '[%Y-%m-%d %H:%M:%S]'
 
     - name: Format output
       run: |
