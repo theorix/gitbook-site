@@ -1,6 +1,10 @@
 # Table of contents
 
 * [Gitbook Template](README.md)
+  * [最新](latest/README.md)
+    * [蓝莺IM介绍(四）](34_20240613_1_1_1718265511.md)
+  * [20240622](20240622/README.md)
+    * [蓝莺IM介绍(四）](34_20240613_1_1_1718265511.md)
 * [articles](articles/README.md)
   * [最新](articles/latest/README.md)
     * [蓝莺IM功能介绍(七）](articles/34_20240618_4_1_1718701647.md)
