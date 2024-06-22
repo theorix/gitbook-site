@@ -135,12 +135,6 @@ markdown_to_html_url(File) ->
     Bin2 = binary:replace(Bin, <<".md">>, <<".html">>),
     binary_to_list(Bin2).
 
-% markdown_to_html_url(File) ->
-%     Bin = iolist_to_binary(File),
-%     Bin1 = binary:replace(Bin, <<"README.md">>, <<"">>),
-%     Bin2 = binary:replace(Bin1, <<".md">>, <<".html">>),
-%     "_book/"++binary_to_list(Bin2).
-
 parse_line(Line) ->
     {match, [[_, {TitleStart, TitleLen},{LinkStart, LinkLen}]]} = re:run(Line, "\\[(.*)\\]\\((.*)\\)", [global]),
     Title = string:substr(Line, TitleStart+1, TitleLen),
