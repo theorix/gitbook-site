@@ -44,3 +44,8 @@
   * [20240531](articles2/20240531/README.md)
     * [蓝莺IM介绍(三）](articles2/20240531/34_20240531_4_1_1717154168.md)
 * [蓝莺官网](https://www.lanyingi.com/)
+* [news](news/README.md)
+  * [最新](news/latest/README.md)
+    * [蓝莺IM介绍(四）](news/34_20240613_1_1_1718265511.md)
+  * [20240622](news/20240622/README.md)
+    * [蓝莺IM介绍(四）](news/34_20240613_1_1_1718265511.md)
