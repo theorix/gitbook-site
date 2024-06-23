@@ -3,6 +3,7 @@
 * [Gitbook Template](README.md)
 * [articles](articles/README.md)
   * [最新](articles/latest/README.md)
+    * [蓝莺IM在企业中的应用：助力高效沟通与管理](articles/lanyingim-enterprise-communication-34-20240623-2-1-1719100937.md)
     * [蓝莺IM的技术架构解析](articles/lan-ying-im-tech-architecture-34-20240622-8-1-1719058128.md)
     * [蓝莺IM用户体验分享：一款改变交流方式的应用](articles/bluebird-im-user-experience-sharing-34-20240622-3-1-1719047588.md)
     * [蓝莺IM实用技巧：提高工作效率的最佳搭档](articles/bluebird-im-productivity-tips-34-20240622-6-1-1719047807.md)
