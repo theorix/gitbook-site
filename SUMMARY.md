@@ -39,3 +39,6 @@
   * [20240531](articles2/20240531/README.md)
     * [蓝莺IM介绍(三）](articles2/20240531/34_20240531_4_1_1717154168.md)
 * [蓝莺官网](https://www.lanyingim.com/)
+* [readmore](readmore/README.md)
+  * [最新](readmore/latest/README.md)
+    * [成功案例：蓝莺IM在企业中的应用实例](successful-case-lanyingim-enterprise-34-20240626-3-1-1719395570.md)
