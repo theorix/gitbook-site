@@ -25,14 +25,12 @@
         "-search",
         "search-plus@^0.0.11",
         "advanced-emoji@^0.2.1",
-        "expandable-chapters-small@^0.1.7",
         "tbfed-pagefooter@^0.0.1",
         "terminal@^0.3.2",
         "code@^0.1.0",
         "splitter@^0.0.8",
         "favicon@^0.0.2",
         "github-tables@^0.0.2",
-        "image-captions@^3.1.0",
         "canonical-link@^2.0.3",
         "auto-scroll-table@^0.0.5",
         "logo@^0.0.2",
@@ -40,7 +38,10 @@
         "meta@^0.1.12",
         "3-ba@^0.9.0",
         "ga4@^1.0.1",
-        "lanying-grow-ai@^1.0.5"
+        "lanying-grow-ai@^1.0.5",
+        "lanying-grow-ai-theme@^1.0.8",
+        "lanying-grow-ai-expandable-chapters@^0.1.8",
+        "lanying-grow-ai-image-captions@git+https://github.com/maxim-top/gitbook-plugin-lanying-grow-ai-image-captions.git#dev"
     ],
     "pluginsConfig": {
         "theme-default": {
