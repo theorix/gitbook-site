@@ -41,7 +41,7 @@
         "lanying-grow-ai@^1.0.5",
         "lanying-grow-ai-theme@^1.0.8",
         "lanying-grow-ai-expandable-chapters@^0.1.8",
-        "lanying-grow-ai-image-captions@git+https://github.com/maxim-top/gitbook-plugin-lanying-grow-ai-image-captions.git#dev"
+        "lanying-grow-ai-image-captions@^3.1.1"
     ],
     "pluginsConfig": {
         "theme-default": {
