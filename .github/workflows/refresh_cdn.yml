@@ -1,0 +1,24 @@
+name: Refresh CDN
+
+on:
+  workflow_dispatch:
+    inputs:
+      cdn_url:
+        description: 'cdn url'
+        required: true
+
+jobs:
+  deploy_sub_site:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: CDN Refresh
+      uses: theorix/aliyun-refresh-cdn@master
+      with:
+        accessKeyId: ${{ secrets.ALIYUN_ACCESS_KEY_ID }}
+        accessKeySecret: ${{ secrets.ALIYUN_ACCESS_KEY_SECRET }}
+        type: Directory
+        path: ${{ github.event.inputs.cdn_url }}
+
