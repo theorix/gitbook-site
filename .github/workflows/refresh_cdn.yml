@@ -15,7 +15,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: CDN Refresh
-      uses: theorix/aliyun-refresh-cdn@master
+      uses: theorix/aliyun-cdn-refresh@master
       with:
         accessKeyId: ${{ secrets.ALIYUN_ACCESS_KEY_ID }}
         accessKeySecret: ${{ secrets.ALIYUN_ACCESS_KEY_SECRET }}
