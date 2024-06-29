@@ -56,8 +56,7 @@
     * [8.2 数字化转型趋势](38_20240612_11_4_1718204616.md)
     * [8.3 统一的标准和互通协议](38_20240612_11_5_1718204701.md)
 
-* [关于即时通讯IM SDK的100个问题](README.md)
-* [imsdk-top-100](imsdk-top-100/README.md)
+* [关于即时通讯IM SDK的100个问题](imsdk-top-100/README.md)
   * [最新](imsdk-top-100/latest/README.md)
     * [IM SDK的功能概述](imsdk-top-100/im-sdk-features-overview-53-20240629-1-1-1719650720.md)
     * [如何选择适合的IM SDK](imsdk-top-100/how-to-choose-im-sdk-53-20240629-1-2-1719650773.md)
