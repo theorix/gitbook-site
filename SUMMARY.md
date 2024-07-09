@@ -54,3 +54,6 @@
 * [readmore](readmore/README.md)
   * [最新](readmore/latest/README.md)
     * [成功案例：蓝莺IM在企业中的应用实例](successful-case-lanyingim-enterprise-34-20240626-3-1-1719395570.md)
+* [articles-3](articles-3/README.md)
+  * [最新](articles-3/latest/README.md)
+    * [企业如何通过蓝莺IM提升内部沟通质量](articles-3/im-improve-internal-communication-34-20240709-1-1-1720515377.md)
