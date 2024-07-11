@@ -2,7 +2,7 @@
 
 * [Gitbook Template](README.md)
   * [最新](latest/README.md)
-    * [蓝莺IM的安全性与隐私保护](lanyingim-security-privacy-34-20240626-2-1-1719395452.md)
+    * [蓝莺IM的安全性与隐私保护](lanyingim-security-privacy-34-20240626-2-1-1719395452-x.md)
 * [articles](articles/README.md)
   * [最新](articles/latest/README.md)
     * [企业如何通过蓝莺IM提升内部沟通质量](articles/im-improve-internal-communication-quality-34-20240705-3-1-1720175741.md)
