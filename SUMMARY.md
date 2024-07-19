@@ -2,7 +2,7 @@
 
 * [Gitbook Template](README.md)
   * [最新](latest/README.md)
-    * [蓝莺IM的安全性与隐私保护](lanyingim-security-privacy-34-20240626-2-1-1719395452-x.md)
+    * [蓝莺IM的安全性与隐私保护](lanyingim-security-privacy-34-20240626-2-1-1719395452.md)
 * [articles](articles/README.md)
   * [最新](articles/latest/README.md)
     * [蓝莺IM的核心功能解析](articles/lanyingim-core-function-analysis-34-20240719-2-1-1721383537.md)
