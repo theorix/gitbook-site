@@ -65,7 +65,7 @@
             "edit": true
         },
         "tbfed-pagefooter": {
-            "copyright": "© 2019-2024 大海 | <a href='/' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
+            "copyright": "© 2019-2024 大海 | <a href='/' style='text-decoration:none!important;'>Official Website</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>Sitemap</a>",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
