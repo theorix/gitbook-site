@@ -3,7 +3,7 @@
     "description": "API文档及文章分享",
     "author": "jinhai",
     "output.name": "site",
-    "language": "zh-hans",
+    "language": "en",
     "gitbook": "3.2.3",
     "root": ".",
     "styles": {
