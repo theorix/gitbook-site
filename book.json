@@ -64,7 +64,7 @@
             "edit": true
         },
         "tbfed-pagefooter": {
-            "copyright": "© 2019-2024 大海 | <a href='/' target='_blank' style='text-decoration:none!important;'>Official Website</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>Sitemap</a>",
+            "copyright": "© 2019-2024 大海 | <a href='https://www.lanyingim.com' target='_blank' style='text-decoration:none!important;'>Official Website</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>Sitemap</a>",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -123,7 +123,7 @@
         "logo": {
             "logo": "/assets/logo.png",
             "logoStyle": "height: 35px;align: left;",
-            "url": "/"
+            "url": "https://www.lanyingim.com"
         },
         "intopic-toc": {
             "selector": ".markdown-section h1, .markdown-section h2, .markdown-section h3",
