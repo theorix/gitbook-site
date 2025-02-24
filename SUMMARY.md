@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Gitbook Template]([README.md](https://www.lanyingim.com/))
+* [Gitbook Template](README.md)
   * [最新](latest/README.md)
     * [蓝莺IM的安全性与隐私保护](lanyingim-security-privacy-34-20240626-2-1-1719395452.md)
 * [articles](articles/README.md)
