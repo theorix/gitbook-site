@@ -183,6 +183,10 @@
     font-weight: 500;
 }
 
+.page-footer{
+    font-size: inherit;
+}
+
 .nav-link {
     white-space: nowrap;
 }
