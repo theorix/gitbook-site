@@ -190,7 +190,7 @@
 
 .page-footer a {
     font-size: inherit;
-    color: #333;
+    color: #333 !important;
 }
 
 .nav-link {
