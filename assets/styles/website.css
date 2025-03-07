@@ -185,6 +185,12 @@
 
 .page-footer{
     font-size: inherit;
+    color: #333;
+}
+
+.page-footer a {
+    font-size: inherit;
+    color: #333;
 }
 
 .nav-link {
