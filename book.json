@@ -51,13 +51,6 @@
                 "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
             ]
         },
-        "github-buttons": {
-            "repo": "theorix/gitbook-site",
-            "types": [
-                "star"
-            ],
-            "size": "small"
-        },
         "include-codeblock": {
             "template": "ace",
             "unindent": true,
