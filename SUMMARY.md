@@ -6,6 +6,8 @@
 * [articles](articles/README.md)
   * [最新](articles/latest/README.md)
     * [即时通讯软件介绍](articles/instant-messaging-software-introduction-34-20250606-6-1-1749207924.md)
+    * [即时通讯软件介绍](articles/instant-messaging-software-introduction-34-20250606-6-1-1749207924.md)
+  * [20250606](articles/20250606/README.md)
     * [即时通讯软件介绍](articles/instant-messaging-software-introduction-34-20250606-4-1-1749206795.md)
   * [20250312](articles/20250312/README.md)
     * [即时通讯软件介绍](articles/instant-messaging-software-introduction-34-20250312-2-1-1741748205.md)
